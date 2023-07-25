@@ -21,7 +21,7 @@
 
      - name: git code from git hub
        git:
-         repo: https://github.com/SandeepCherka/webcode.git
+         repo: https://github.com/SandeepCherka/htmldeployment.git
          dest: /var/www/html/
-         version: frontend
+         version: main
 
